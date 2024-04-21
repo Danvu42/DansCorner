@@ -1,7 +1,9 @@
+title: 'DansCorner'
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: "/jekyll-theme-console-demo-dark"
+url: "https://danvu42.github.io/DansCorner/"
 header_pages:
   - index.md
   - about.md
-
-style: dark # dark (default), light or hacker
 
 remote_theme: b2a3e8/jekyll-theme-console
